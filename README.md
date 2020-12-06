@@ -1,2 +1,3 @@
-# dotfiles-v2
-Arch Linux | i3wm | Second Rice
+# Dotfiles
+#
+## Arch Linux Setup | Second Rice
