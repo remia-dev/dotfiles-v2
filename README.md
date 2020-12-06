@@ -1,2 +1,3 @@
 # Dotfiles
-## Arch Linux Setup | Second Rice
+
+### Arch Linux Setup | Second Rice
