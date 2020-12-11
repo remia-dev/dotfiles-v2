@@ -1,7 +1,7 @@
 # Dotfiles
 
 ### Arch Linux Setup | Second Rice
-![alt text](https://imgur.com/a/zNhFveg.png)
+![alt text](https://i.imgur.com/XBB9kcI.png)
 
 - **WM** : i3-gaps
 - **Theme** : Adwaita-dark
