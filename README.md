@@ -9,3 +9,12 @@
 - **Terminal** : xfce4-te
 - **Text Editor** : Neovim
 - **Font** : Nerds-hack
+- **Status Bar** : Polybar
+- **Browser** : Brave
+
+#### Softwares used: 
+- **Zathura** : pdf viewer
+- **Thunar** : File manager
+- **Kazam** : Screenshot/record
+- **Nitrogen** : Background 
+
