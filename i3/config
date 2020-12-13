@@ -163,7 +163,10 @@ bindsym $mod+Shift+r restart
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
 # Assigning Applications
-
+for_window[class="Spotify"] move to workspace $ws5
+for_window[class="Anki"] move to workspace $ws3
+for_window[class="chatterino"] move to workspace $ws2
+for_window[class="discord"] move to workspace $ws6
 
 
 
@@ -223,6 +226,7 @@ exec_always xset fp rehash
 
 
 # Always launch
+exec_always feh --bg-fill home/j-dev/Pictures/Wallpapers/AnimWallpaper2.jpg
 exec_always picom -f
 exec_always Spotiy
 exec_always Anki
